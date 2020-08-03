@@ -1,0 +1,7 @@
+azure-functions
+tensorflow
+tensorflow-addons 
+numpy
+Pillow
+opencv-python
+requests
